@@ -100,7 +100,7 @@
 
 I am always open to discussing **Data Analytics, Business Intelligence, Data Operations, and Financial/Retirement Tech opportunities** (including roles in India and Singapore). Let's connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/your-linkedin-username/) *(Update with your profile URL)*
+- 💼 **LinkedIn:** [linkedin.com/in/kundajayakrishna](https://www.linkedin.com/in/kundajayakrishna/) 
 - 📧 **Email:** [krishnakunda7@gmail.com](mailto:krishnakunda7@gmail.com)
 - 📞 **Phone:** +91 7013251473
 
