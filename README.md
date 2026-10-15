@@ -4,7 +4,7 @@
 
 ### **Data & Business Analyst | Data Operations & Retirement Solutions Associate | BCA Graduate**
 
-📍 Andhra Pradesh, India *(Open to Global & Singapore Opportunities)*  
+📍 Andhra Pradesh, India
 🎓 **Bachelor of Computer Applications (BCA)** — *Sai Parameswara Degree College (CGPA: 8.14)*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
@@ -83,12 +83,10 @@
 
 ## 📈 GitHub Stats & Activity
 
-> 💡 *Note: Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub handle so your live stats render automatically.*
-
 <div align="center">
 
-![Kunda Jaya Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Kunda Jaya Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jayakrishna-kunda&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakrishna-kunda&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -98,7 +96,7 @@
 
 ## 🤝 Connect with Me
 
-I am always open to discussing **Data Analytics, Business Intelligence, Data Operations, and Financial/Retirement Tech opportunities** (including roles in India and Singapore). Let's connect!
+I am always open to discussing **Data Analytics, Business Intelligence, Data Operations, and Financial/Retirement Tech opportunities**  Let's connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/kundajayakrishna](https://www.linkedin.com/in/kundajayakrishna/) 
 - 📧 **Email:** [krishnakunda7@gmail.com](mailto:krishnakunda7@gmail.com)
